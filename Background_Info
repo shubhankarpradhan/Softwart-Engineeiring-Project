@@ -12,3 +12,15 @@
   patients and the donors will be notified about on-going or future Blood
   Donation Camps via alerts on social media so that a blood donor can donate his/her
   blood that may be usefull for someone else.
+
+(c)
+  There will be login facility for the users, the details of which will be stored in
+  a database.
+  
+  The eligibility and the availability of the donors will also be mentioned, also the
+  details about their locality will be mentioned.
+  
+  The donors will be notified about the Blood Donation Camps being held by the
+  hospitals.
+  
+  The entire portal will be linked to social media for better response and awareness.
