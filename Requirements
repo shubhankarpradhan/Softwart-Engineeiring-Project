@@ -1,0 +1,15 @@
+Functional Requirements:
+
+  1. Administrator Access
+  2. Sign up details for various users
+  3. Search donor by locality or blood group
+  4. Donor points
+  5. Checking eligibility of the donor
+  6. Notification pannel
+  7. Connecting with social networking websites
+  8. Messages/E-mail functionality
+  
+Non-Functional Requirements:
+
+  1. Searching multiple donors
+  2. Notification via both E-mail and text messages
